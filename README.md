@@ -5,7 +5,7 @@
 - 📫 How to reach me: guillaume.coussot@gmail.com
 
 ---
-🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
@@ -29,8 +29,6 @@
 </div>
 
 ---
-
 ### :fire: My Stats :
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiEpi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
