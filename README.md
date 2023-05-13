@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on aram-ranked
+- 🔭 I’m currently working on wreview
 - 🌱 I’m currently learning at Epitech
 - 📫 How to reach me: guillaume.coussot@gmail.com
 
