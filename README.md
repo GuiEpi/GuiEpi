@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on wreview
-- 🌱 I’m currently learning at Epitech
+- 👨‍🎓 Epitech alumni
 - 📫 How to reach me: guillaume.coussot@gmail.com
 
 ---
